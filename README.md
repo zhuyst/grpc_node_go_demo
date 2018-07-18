@@ -1,3 +1,9 @@
+# grpc_node_go_demo
+
+这是一个使用grpc让Node.js与Go互相调用RPC服务的Demo。
+
+下文是教程
+
 # 定义.proto
 
 新建文件 **hello.proto** 定义一个 **HelloService** ，并且有一个 **SayHello** 方法。
